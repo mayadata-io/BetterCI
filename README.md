@@ -1,6 +1,6 @@
 # BetterCI
 
-Just a BetterCI that you always wanted. Allows you to deploy PRs temporarily for a preview. Works with Docker-Compose and K8s deployments.
+A Better CI that makes your dev life easier! It allows you to deploy PRs temporarily for a preview. Works with Docker-Compose and K8s deployments.
 
 ## Prerequisites
 
